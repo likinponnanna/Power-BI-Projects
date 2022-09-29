@@ -1,4 +1,4 @@
-# Power-bi-Maven-Market
+# Power-BI-Projects
 Maven Market
 
 Maven Marketis a multi-national grocery chain with locations in Canada, Mexico and the United States.
