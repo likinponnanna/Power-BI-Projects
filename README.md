@@ -13,6 +13,6 @@ Steps Involved
 3. Adding calculated columns and measures
 4. Designing an interactive report.
 
- The datasets were shaped and connected based on the relation between foreigh and primary keys and a relationship was created.
+ The datasets were shaped and connected based on the relation between foreign and primary keys and a relationship was created.
 Calculated columns and measures were added with the help of DAX formulas and time intelligent Functions.
 A user interactive dashboard was created along with the key insights derived from the report.
