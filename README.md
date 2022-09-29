@@ -1,7 +1,7 @@
 # Power-BI-Projects
-Maven Market
+*Project 1 : Maven Market*
 
-Maven Marketis a multi-national grocery chain with locations in Canada, Mexico and the United States.
+Maven Market is a multi-national grocery chain with locations in Canada, Mexico and the United States.
 
 
 Objective : To work through the Business Intelligence Workflow and to create a dashboard with valuable insights.
