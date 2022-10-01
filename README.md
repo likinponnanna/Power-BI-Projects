@@ -4,7 +4,7 @@
 Maven Market is a multi-national grocery chain with locations in Canada, Mexico and the United States.
 
 
-Objective : To work through the Business Intelligence Workflow and to create a dashboard with valuable insights.
+**Objective** : To work through the Business Intelligence Workflow and to create a dashboard with valuable insights.
 
 Steps Involved
 
@@ -20,4 +20,13 @@ A user interactive dashboard was created along with the key insights derived fro
 
 *Project 2 : Olympic Data Analysis*
 
+Dataset Description : Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.
+
+**Objective**
+
+* Analyze and visualize the % of athletes who were female over time.
+* Compare and contrast the summer and the winter games.
+* Analyze and visualize country-level trends.
+
+The dataset was first cleaned in Jupyter notebook using python. Then it was extracted to Power BI where Connecting and shaping,Building the relational model,addition of calculated columns and measures using Dax formulas were done.Finally a interactive report was created.
 
