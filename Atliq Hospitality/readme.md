@@ -17,3 +17,21 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock Up Dashboard
+
+![mock up dashboard_atliq grands](https://github.com/likinponnanna/Power-BI-Projects/assets/109941159/967df7d4-40af-4a48-8594-d1715bbd168a)
+
+## Data Model
+![Atliq_Powerbi_Datamodel](https://github.com/likinponnanna/Power-BI-Projects/assets/109941159/c957af6b-9a71-4c51-8105-c68073423aa0)
+
+## Overall Analysis
+
+![Dshboard_1](https://github.com/likinponnanna/Power-BI-Projects/assets/109941159/f82ab08a-1396-4bb9-9052-b939712b57df)
+
+## Monthly Analysis
+
+![Dshboard_2](https://github.com/likinponnanna/Power-BI-Projects/assets/109941159/b768b96d-cc2c-4234-82de-e942fbecd98d)
+
+## Insights
+
+![insights](https://github.com/likinponnanna/Power-BI-Projects/assets/109941159/99373e2c-6029-4921-8ff6-6649c7aead99)
+
